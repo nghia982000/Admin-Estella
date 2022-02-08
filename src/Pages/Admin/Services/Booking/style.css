@@ -1,0 +1,21 @@
+.ant-row{
+    margin: 30px auto 30px auto;
+}
+
+.first-wrapper{
+    border-bottom: 1px solid gray;
+}
+
+.second-wrapper div.ant-col:last-child p{
+    position: absolute;
+    bottom: 0;
+}
+
+.ant-drawer-body p{
+    margin-left: 30px;
+}
+
+#header{
+    font-weight: bold;
+    font-size: 20px;
+}
